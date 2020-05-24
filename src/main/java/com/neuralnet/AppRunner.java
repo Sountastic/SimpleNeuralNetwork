@@ -42,13 +42,5 @@ public class AppRunner {
 
         in.get(0).setInput(features.get(0));
 
-//            network.think();
-//            List<Double> results = network.getOutput().stream().map(Connection::getOutput).collect(Collectors.toList());
-//            List<Double> expectedOutputs = object.expectedOutput();
-//
-//            // find diff
-//            List<Double> diffs;
-//            network.adjust(List<Double> adjustments);
-
     }
 }
