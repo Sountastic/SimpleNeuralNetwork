@@ -1,5 +1,8 @@
 package com.neuralnetimpl.dataset;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class TestCase {
     final double[] input;
     final double[] output;
@@ -8,4 +11,7 @@ public class TestCase {
         this.input = input;
         this.output = output;
     }
+
+
+
 }
